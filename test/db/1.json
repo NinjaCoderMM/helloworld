@@ -1,0 +1,29 @@
+{
+     "desc": "မြန်မာစာ စမ်း",
+     "srcs": [
+          {
+               "name": "FF",
+               "url": "sdfdd.sdf",
+               "size": "1 GB",
+               "quality": "HD",
+               "direct": false,
+               "dl": false
+          },
+          {
+               "name": "Raw",
+               "url": "sdfdd.sdf",
+               "size": "1 GB",
+               "quality": "FHD",
+               "direct": true,
+               "dl": false
+          },
+          {
+               "name": "GG",
+               "url": "sdfdd.sdf",
+               "size": "2 GB",
+               "quality": "FHD",
+               "direct": true,
+               "dl": true
+          }
+     ]
+}
